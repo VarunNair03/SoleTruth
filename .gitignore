@@ -1,0 +1,13 @@
+**.tiff
+retreival/Part1/
+retreival/Part2/
+retreival/Part3/
+retreival/Part4/
+retreival/Part5/
+
+**/train-dataset
+**/vit-model
+
+**/.env
+msn/siamese_vitmsn/
+create-dataset.py
